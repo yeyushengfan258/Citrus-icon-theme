@@ -5,3 +5,5 @@ A colorful design icon theme for linux desktops
 
 `./install.sh`
 
+## screenshot
+
