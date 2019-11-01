@@ -1,0 +1,41 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+  <linearGradient id="a" x1="152" x2="152" y1="236" y2="76" gradientTransform="translate(-13.153 -113.86)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset=".51494"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.2000001"/>
+  </filter>
+  <filter id="e" x="-.012" y="-.012" width="1.024" height="1.024" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.72000001"/>
+  </filter>
+  <linearGradient id="c" x1="104" x2="200" y1="44" y2="268" gradientTransform="translate(-13.153 -115.86)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#325fd1" offset="0"/>
+   <stop stop-color="#6e98ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.26316 0 0 .26316 -4.5388 21.438)">
+  <circle cx="138.85" cy="40.136" r="114" enable-background="new" opacity=".1"/>
+  <circle cx="138.85" cy="40.136" r="112" enable-background="new" fill="url(#c)"/>
+  <g>
+   <path d="m138.85-71.864a112 112 0 0 0-44.594 9.4063l10.594 10.594v12.541l14 15.459h8v-8l12-12v-8l8-8v-11.6a112 112 0 0 0-8-0.40039zm-65.021 20.979a112 112 0 0 0-46.979 91.021h12l20 20v-24l12-12h8l12-12h12l-6-6 12-14-12-12h-18v16h-8l-8-8v-8l12-12h10v-8zm117.02 7.0215-12 12v10h12v-6h8v8l-4 4-16 0.27148-6 5.7285h-8v8l-6 6v12h12l8-8h8v4l8 8h4v-4l-8-8h8l8 8h10l-6-6 6-6h6l6 6h-6l-6 6 5.8906 5.8906 0.10938 6.1094h-8l24 24h4l4-4 3.7891-3.7891a112 112 0 0 0 0.21094-4.2109 112 112 0 0 0-0.14648-4.1465l-3.8535-3.8535h3.709a112 112 0 0 0-37.771-76zm24 72h-24l-4-4h-24l-14 14v20l10 10h14l6 6v6l4 4v24l15.189 16.055 25.08-25.082-0.26953-22.973 20-20h-8l-20-20zm-78-56v6h12l-6-6zm36 2-6 6v6h6zm-62 22-6 6h6l2 2h2l2-2zm-34 42-6 6h12v-6zm-6 18-8 8v20l16.055 14.068-0.05469 17.932-6 6v8.3398a112 112 0 0 0 12.234 7.9062l19.766-18.246v-8l12-12v-6l6-6v-16l-8-8h-16l-8-8zm166 28-8 7.459v12.541h1.8594a112 112 0 0 0 6.1406-9.834z" color="#000000" fill="#fff" opacity=".24"/>
+   <path d="m210.85-29.864-59.043 34.184a40 40 0 0 0-41.242 9.5313 40 40 0 0 0-9.5156 41.215l-34.199 59.07 59.043-34.184a40 40 0 0 0 41.242-9.5312 40 40 0 0 0 9.5156-41.215z" color="#000000" fill="url(#a)" filter="url(#e)" opacity=".1"/>
+   <path d="m210.85-29.864-59.043 34.184a40 40 0 0 0-41.242 9.5313 40 40 0 0 0-9.5156 41.215l-34.199 59.07 59.043-34.184a40 40 0 0 0 41.242-9.5312 40 40 0 0 0 9.5156-41.215z" color="#000000" fill="url(#a)" filter="url(#f)" opacity=".4"/>
+   <path d="m119.65 20.936 91.2-52.8-52.8 91.2z" color="#000000" fill="#e93549"/>
+   <path d="m210.85-31.864-91.199 52.801-52.801 91.199 1.7422-1.0078 51.059-88.191 89.457-51.793z" color="#000000" fill="#fff" opacity=".5"/>
+   <path d="m119.65 20.936-52.8 91.2 91.2-52.8z" color="#000000" fill="#dfdfdf"/>
+   <path d="m210.85-31.864-91.199 52.801-52.801 91.199 3.3594-1.9453 69.348-69.348 69.348-69.348z" color="#000000" fill="#fff" opacity=".2"/>
+   <circle transform="rotate(45 132.08 -73.309)" cx="217.79" cy="2.8284" r="40" color="#000000" filter="url(#d)" opacity=".2"/>
+   <circle transform="rotate(45)" cx="126.56" cy="-69.8" r="40" color="#000000" fill="#f2f2f2"/>
+   <path d="m139.43 0.13952a40 40 0 0 0-28.869 11.711 40 40 0 0 0-11.664 28.99 40 40 0 0 1 11.664-26.99 40 40 0 0 1 56.57 0 40 40 0 0 1 11.664 27.58 40 40 0 0 0-11.664-29.58 40 40 0 0 0-27.701-11.711z" color="#000000" fill="#fff"/>
+  </g>
+  <path d="m138.85-71.864a112 112 0 0 0-112 112 112 112 0 0 0 0.04102 1.1699 112 112 0 0 1 111.96-111.17 112 112 0 0 1 111.96 110.83 112 112 0 0 0 0.041-0.83008 112 112 0 0 0-112-112z" enable-background="new" fill="#fff" opacity=".3"/>
+  <path d="m138.85 152.14a112 112 0 0 1-112-112 112 112 0 0 1 0.04102-1.1699 112 112 0 0 0 111.96 111.17 112 112 0 0 0 111.96-110.83 112 112 0 0 1 0.041 0.83008 112 112 0 0 1-112 112z" enable-background="new" opacity=".2"/>
+ </g>
+</svg>
