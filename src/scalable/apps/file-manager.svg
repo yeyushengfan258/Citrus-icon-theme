@@ -1,20 +1,18 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="j" x1="-6.1738" x2="-6.1738" y1="-126.08" y2="-126.7" gradientTransform="matrix(.54035 0 0 .54035 11.594 73.26)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-  <linearGradient id="b">
-   <stop stop-color="#ffb932" offset="0"/>
-   <stop stop-color="#e68c32" offset="1"/>
-  </linearGradient>
   <linearGradient id="h" x1="19.27" x2="19.27" y1="281.99" y2="297.35" gradientTransform="translate(-10.848 -280.07)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ffbe3c" offset="0"/>
    <stop stop-color="#e68c28" offset="1"/>
   </linearGradient>
-  <linearGradient id="g" x1="16.721" x2="16.721" y1="279.38" y2="297.64" gradientTransform="matrix(.98127 0 0 1 -7.7349 -280.07)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="g" x1="16.721" x2="16.721" y1="279.38" y2="297.64" gradientTransform="matrix(.98127 0 0 1 -7.7349 -280.07)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffb932" offset="0"/>
+   <stop stop-color="#e68c32" offset="1"/>
+  </linearGradient>
  </defs>
  <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
  <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
  <ellipse cx="8.5035" cy="8.47" rx="7.7988" ry="7.9476" fill="url(#g)" stroke-width="1.1902" style="paint-order:stroke markers fill"/>
  <circle cx="8.4935" cy="8.105" r="6.813" fill="#fafafa" stroke-width=".85833" style="paint-order:normal"/>
  <path d="m8.4929 3.3c-0.32458 7.9e-4 -0.42372 0.31783-0.58797 0.60997l-0.34222 0.60819-6.1696 6.1e-4a7.9376 8.2266 0 0 0-0.83717 3.6562 7.9376 8.2266 0 0 0 7.9376 8.2266 7.9376 8.2266 0 0 0 7.9376-8.2266 7.9376 8.2266 0 0 0-1.5555-4.875h-6.3815z" fill="url(#h)" stroke-width="1.1312" style="paint-order:stroke markers fill"/>
- <path d="m1.3013 4.83c-0.046136 0.091-0.091599 0.18275-0.13426 0.27537h14.652c-0.04075-0.0926-0.08955-0.18439-0.13374-0.27537z" fill="url(#j)" stroke-width=".14297"/>
+ <rect x="9.5248" y="3.9687" width="5.027" height=".52916" rx="0" ry=".26458" fill="#f3990d" style="paint-order:fill markers stroke"/>
 </svg>

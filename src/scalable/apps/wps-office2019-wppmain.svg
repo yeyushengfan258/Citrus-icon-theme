@@ -19,5 +19,6 @@
   <circle cx="8.4666" cy="8.4666" r="7.9377" fill-opacity="0"/>
   <circle cx="8.4666" cy="8.4666" r="0" fill="url(#b)"/>
  </g>
+ <path d="m4.738 11.906v-2.991h5.972s1.492 0 1.492-1.493-1.492-1.494-1.492-1.494h-5.972" fill="none" opacity=".15" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".995"/>
  <path d="m4.738 11.534v-2.991h5.972s1.492 0 1.492-1.493-1.492-1.494-1.492-1.494h-5.972" fill="none" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".995"/>
 </svg>
