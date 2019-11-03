@@ -5,5 +5,6 @@ A colorful design icon theme for linux desktops
 
 `./install.sh`
 
-## screenshot
+## view
+![CITRUS](view.png?raw=true)
 
