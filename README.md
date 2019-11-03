@@ -6,5 +6,4 @@ A colorful design icon theme for linux desktops
 `./install.sh`
 
 ## view
-![CITRUS](view.png?raw=true)
-
+![CITRUS](../master/view.png?raw=true)
