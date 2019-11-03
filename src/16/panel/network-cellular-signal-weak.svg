@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" enable-background="new"><defs><filter color-interpolation-filters="sRGB" id="a"><feBlend in2="BackgroundImage" mode="darken"/></filter></defs><g fill="#444"><path d="M1 15.003l14-14v14z" opacity=".35"/><path d="M5 11.003l-4 4h4v-4z"/></g></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#bebebe">
+  <path d="m1 15.003 14-14v14z" opacity=".35"/>
+  <path d="m5 11.003-4 4h4v-4z"/>
+ </g>
+</svg>
