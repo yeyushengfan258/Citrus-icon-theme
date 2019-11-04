@@ -1,8 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.49892 0 0 .49892 11.356 348.3)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5cc465" offset="0"/>
-   <stop stop-color="#17e997" offset="1"/>
+   <stop stop-color="#72cd77" offset="0"/>
+   <stop stop-color="#26c084" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="translate(0 -280.07)">
