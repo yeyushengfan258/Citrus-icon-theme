@@ -1,15 +1,37 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <defs>
-  <linearGradient id="a" x1="505.39" x2="-110.8" y1="446.78" y2="-19.343" gradientTransform="matrix(.03122 0 0 .031219 .22065 .6944)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a-3" x1="505.39" x2="-110.8" y1="446.78" y2="-19.343" gradientTransform="matrix(.031042 0 0 .031219 30.857 -2.4478)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fb752e" offset="0"/>
-   <stop stop-color="#d0c311" offset="1"/>
+   <stop stop-color="#ffb932" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(.99431 0 0 1 .57429 -.3551)">
-  <path d="m2.9072 2.4722c-2.4368-0.011919-2.6865 0.28694-2.6865 2.7187v7.8282c0 2.4319 0.24966 2.6815 2.6865 2.6815h10.06c2.4368 0 2.6866-0.24963 2.6866-2.6815v-7.8282c0-2.4317-0.24983-2.7306-2.6866-2.7187h-5.03z" color="#000000" opacity=".15"/>
-  <path d="m2.9072 2.2077c-2.4368-0.011919-2.6865 0.28694-2.6865 2.7187v7.8282c0 2.4319 0.24966 2.6815 2.6865 2.6815h10.06c2.4368 0 2.6866-0.24963 2.6866-2.6815v-7.8282c0-2.4317-0.24983-2.7306-2.6866-2.7187h-5.03z" color="#000000" fill="url(#a)"/>
-  <path d="m0.2207 12.617v0.1378c0 2.4319 0.24966 2.6815 2.6865 2.6815h10.06c2.4368 0 2.6866-0.24963 2.6866-2.6815v-0.1378c0 2.4319-0.2498 2.6815-2.6866 2.6815h-10.06c-2.4368 0-2.6865-0.24963-2.6865-2.6815z" color="#000000" opacity=".2"/>
-  <path d="m2.6195 2.2077c-2.1757-0.011919-2.3987 0.28694-2.3987 2.7187v7.8282c0 2.4319 0.22292 2.6815 2.3987 2.6815h1.0604v-13.228z" enable-background="new" opacity=".3"/>
-  <path d="m2.9072 2.2075c-2.4368-0.011919-2.6865 0.24977-2.6865 2.6817v0.1378c0-2.4319 0.24969-2.6936 2.6865-2.6817h10.06c2.4368-0.011919 2.6866 0.24977 2.6866 2.6817v-0.1378c0-2.4319-0.24983-2.6936-2.6866-2.6817h-5.03z" color="#000000" fill="#fff" opacity=".2"/>
+ <g transform="translate(-30.063 2.7869)">
+  <path d="m33.528-0.67003c-2.4229-0.011919-2.6712 0.28694-2.6712 2.7187v7.8282c0 2.4319 0.24824 2.6815 2.6712 2.6815h10.003c2.4229 0 2.6713-0.24963 2.6713-2.6815v-7.8282c0-2.4317-0.24841-2.7306-2.6713-2.7187h-5.0014z" color="#000000" opacity=".15" stroke-width=".99715"/>
+  <path d="m33.528-0.93453c-2.4229-0.011919-2.6712 0.28694-2.6712 2.7187v7.8282c0 2.4319 0.24824 2.6815 2.6712 2.6815h10.003c2.4229 0 2.6713-0.24963 2.6713-2.6815v-7.8282c0-2.4317-0.24841-2.7306-2.6713-2.7187h-5.0014z" color="#000000" fill="url(#a-3)" stroke-width=".99715"/>
+  <path d="m34.032 11.235c-0.29307 0-0.52916 0.23609-0.52916 0.52916v0.52967h10.054v-0.52967c0-0.29307-0.23609-0.52916-0.52916-0.52916z" fill="#fff" opacity=".3" style="paint-order:stroke markers fill"/>
+  <path d="m33.87-0.93453c-0.18666 1.471e-4 -0.34665 0.00141-0.51107 0.00258-0.22866 5.451e-4 -0.45288 0.00153-0.64181 0.010852-1.2 0.059235-1.6354 0.33268-1.7859 1.2697h15.196c-0.14996-0.93339-0.58391-1.2075-1.7735-1.2681-0.02222-6.021e-4 -0.04391-0.00152-0.06666-0.00207-0.17181-0.00756-0.36992-0.00919-0.5736-0.00982-0.18278-0.0015-0.36642-0.00294-0.5767-0.0031h-4.6079z" color="#000000" fill="#141414" opacity=".3" stroke-width=".99715"/>
+  <g transform="matrix(.95395 0 0 1 27.892 .80037)">
+   <rect x="4.1397" y="-1.3544" width="1.058" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="9.6967" y="-1.3544" width="2.646" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="17.634" y="-1.3544" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="16.576" y="-1.3544" width=".794" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="15.782" y="-1.3544" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  </g>
+  <g transform="translate(30.063 -1.1027)" fill="#ffc896" fill-rule="evenodd">
+   <circle cx="5.1581" cy="12.207" r=".66077"/>
+   <circle cx="11.775" cy="12.169" r=".66077"/>
+   <circle cx="7.3636" cy="12.207" r=".66077"/>
+   <circle cx="9.5691" cy="12.207" r=".66077"/>
+  </g>
  </g>
 </svg>
