@@ -1,12 +1,18 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <defs>
-  <linearGradient id="c" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(.56697 0 0 .56697 -218.64 -293.03)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#3889e9" offset="0"/>
-   <stop stop-color="#5ea5fb" offset="1"/>
-  </linearGradient>
-  <linearGradient id="a" x1="8.4666" x2="8.4666" y1=".52892" y2="16.404" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#4f9ef5" offset="0"/>
-   <stop stop-color="#4782f5" offset="1"/>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.996)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32b4ff" offset="0"/>
+   <stop stop-color="#3287ff" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="matrix(.26458 0 0 .26458 -.0052869 .25256)" opacity=".25" stroke-width="1.5715">
@@ -14,11 +20,9 @@
   <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
   <circle cx="32.02" cy="32.044" r="0"/>
  </g>
- <g stroke-width=".41579">
-  <circle cx="8.4666" cy="8.4666" r="7.9377" fill="url(#a)"/>
-  <circle cx="8.4666" cy="8.4666" r="7.9377" fill-opacity="0"/>
-  <circle cx="8.4666" cy="8.4666" r="0" fill="url(#c)"/>
- </g>
+ <circle cx="8.4664" cy="8.4664" r="7.9375" fill="url(#a-3)" style="paint-order:normal"/>
  <path d="m4.704 6.4551v5.644l3.7627-3.292 3.7627 3.292v-5.644" fill="none" opacity=".15" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".941"/>
  <path d="m4.704 6.0853v5.644l3.7627-3.292 3.7627 3.292v-5.644" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".941"/>
+ <circle cx="-308.78" cy="-318.82" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-17.864" cy="15.998" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
 </svg>
