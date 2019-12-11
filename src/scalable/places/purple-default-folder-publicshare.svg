@@ -683,20 +683,15 @@
  </g>
  <path d="m8.4936 3.3c-0.32458 7.938e-4 -0.42373 0.31783-0.58797 0.60998l-0.34222 0.60818-6.1696 5.29e-4a7.9376 8.2266 0 0 0-0.83718 3.6563 7.9376 8.2266 0 0 0 7.9376 8.2266 7.9376 8.2266 0 0 0 7.9376-8.2266 7.9376 8.2266 0 0 0-1.5556-4.875h-6.3815z" fill="url(#linearGradient677346-6)" stroke-width="1.1312" style="paint-order:stroke markers fill"/>
  <path d="m1.3017 4.83c-0.0461 0.091-0.0916 0.18277-0.13426 0.27538h14.652c-0.0408-0.0926-0.0896-0.18439-0.13374-0.27538z" fill="url(#linearGradient677348-3)" stroke-width=".14297"/>
- <g transform="matrix(.25441 0 0 .25441 2.3877 3.73)" fill-rule="evenodd" opacity=".25">
-  <circle cx="14" cy="24" r="3"/>
-  <circle cx="28" cy="24" r="3"/>
-  <circle cx="20" cy="14" r="3"/>
-  <circle cx="20" cy="34" r="3"/>
-  <circle cx="34" cy="34" r="3"/>
-  <path d="m19.14 13.486-6.309 10.514 6.6 11h14.566v-2h-13.434l-4.801-8h12.234v-2h-12.234l5.092-8.486-1.715-1.027z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+ <g transform="matrix(.79997 0 0 .79997 -74.215 -174.71)" fill-rule="evenodd">
+  <g transform="matrix(.25441 0 0 .25441 97.284 224.86)" fill="#fff">
+   <circle cx="14" cy="24" r="3"/>
+   <circle cx="28" cy="24" r="3"/>
+   <circle cx="20" cy="14" r="3"/>
+   <circle cx="20" cy="34" r="3"/>
+   <circle cx="34" cy="34" r="3"/>
+   <path d="m19.14 13.486-6.309 10.514 6.6 11h14.566v-2h-13.434l-4.801-8h12.234v-2h-12.234l5.092-8.486-1.715-1.027z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+  </g>
  </g>
- <g transform="matrix(.25441 0 0 .25441 2.3877 3.55)" fill="#fff" fill-rule="evenodd">
-  <circle cx="14" cy="24" r="3"/>
-  <circle cx="28" cy="24" r="3"/>
-  <circle cx="20" cy="14" r="3"/>
-  <circle cx="20" cy="34" r="3"/>
-  <circle cx="34" cy="34" r="3"/>
-  <path d="m19.14 13.486-6.309 10.514 6.6 11h14.566v-2h-13.434l-4.801-8h12.234v-2h-12.234l5.092-8.486-1.715-1.027z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
- </g>
+ <circle cx="-304.69" cy="-317.03" r="0" fill="#5e4aa6" stroke-width=".26458"/>
 </svg>

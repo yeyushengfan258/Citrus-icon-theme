@@ -156,9 +156,6 @@
   <linearGradient id="linearGradient13570" x1="8.7643" x2="8.7643" y1="287.18" y2="287.64" gradientTransform="matrix(.94579 0 0 .555 7.919 130.1)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
   <linearGradient id="linearGradient13572" x1="8.3178" x2="8.3178" y1="289.36" y2="289.81" gradientTransform="matrix(.94579 0 0 .555 7.901 131.07)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
   <linearGradient id="linearGradient13574" x1="8.2553" x2="8.2553" y1="291.55" y2="291.96" gradientTransform="matrix(.94579 0 0 .55502 8.0111 132.03)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
-  <clipPath id="clipPath26031-8">
-   <path d="m-0.99971 1335h1029v-1334h-1029z"/>
-  </clipPath>
   <linearGradient id="linearGradient677332-3" x1="16.721" x2="16.721" y1="279.38" y2="297.64" gradientTransform="matrix(.98129 0 0 .99999 -7.7457 -280.08)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#14d278" offset="0"/>
    <stop stop-color="#147864" offset="1"/>
@@ -171,6 +168,9 @@
    <stop stop-color="#14dc78" offset="0"/>
    <stop stop-color="#147864" offset="1"/>
   </linearGradient>
+  <clipPath id="clipPath26031-8-3">
+   <path d="m-0.99971 1335h1029v-1334h-1029z"/>
+  </clipPath>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -194,30 +194,6 @@
  </g>
  <path d="m8.4932 3.3c-0.32459 8e-4 -0.42374 0.31784-0.58798 0.60999l-0.34223 0.60819-6.1697 5.3e-4a7.9377 8.2267 0 0 0-0.83719 3.6564 7.9377 8.2267 0 0 0 7.9377 8.2267 7.9377 8.2267 0 0 0 7.9377-8.2267 7.9377 8.2267 0 0 0-1.5556-4.875h-6.3816z" fill="url(#linearGradient677346-6)" stroke-width="1.1312" style="paint-order:stroke markers fill"/>
  <path d="m1.3023 4.83c-0.0461 0.091-0.0916 0.18277-0.13426 0.27538h14.652c-0.0408-0.0926-0.0896-0.18439-0.13374-0.27538z" fill="url(#linearGradient677348-7)" stroke-width=".14297"/>
- <g transform="matrix(.096903 0 0 -.096903 -41.527 78.9)" opacity=".25">
-  <g>
-   <g>
-    <g>
-     <g clip-path="url(#clipPath26031-8)">
-      <path d="m508.6 714.78v-5.746h-9.928c-0.51 0-0.966-0.293-1.184-0.755-0.211-0.463-0.137-1.001 0.191-1.389l17.53-20.497c0.245-0.286 0.605-0.456 0.986-0.456s0.742 0.17 0.988 0.456l17.516 20.497c0.333 0.388 0.408 0.932 0.19 1.389-0.21 0.462-0.674 0.755-1.184 0.755h-9.929c-5.7619 12.045-3.7849 29.758 2.481 36.97-10.955-6.59-17.657-18.439-17.657-31.224"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g transform="matrix(.096903 0 0 -.096903 -41.527 78.63)" fill="#fff">
-  <g fill="#fff">
-   <g fill="#fff">
-    <g fill="#fff">
-     <g clip-path="url(#clipPath26031-8)" fill="#fff">
-      <path d="m508.6 714.78v-5.746h-9.928c-0.51 0-0.966-0.293-1.184-0.755-0.211-0.463-0.137-1.001 0.191-1.389l17.53-20.497c0.245-0.286 0.605-0.456 0.986-0.456s0.742 0.17 0.988 0.456l17.516 20.497c0.333 0.388 0.408 0.932 0.19 1.389-0.21 0.462-0.674 0.755-1.184 0.755h-9.929c-5.7619 12.045-3.7849 29.758 2.481 36.97-10.955-6.59-17.657-18.439-17.657-31.224" fill="#fff"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <rect x="6.2452" y="12.85" width="4.498" height=".26459" opacity=".25" stroke-width=".99999" style="paint-order:normal"/>
- <rect x="6.2452" y="12.69" width="4.498" height=".26459" fill="#fff" stroke-width=".99999" style="paint-order:normal"/>
  <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
  <circle cx="-39.434" cy="6.44" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
  <g transform="matrix(.35278 0 0 -.35278 71.72 253.14)">
@@ -534,4 +510,22 @@
  </g>
  <circle cx="-308.06" cy="-322.65" r="0" fill="#5e4aa6" stroke-width=".26458"/>
  <circle cx="-17.147" cy="12.175" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <g transform="matrix(.8235 0 0 .8235 -101.84 -179.34)">
+  <g transform="matrix(.096904 0 0 -.096904 83.957 299.14)" fill="#a0641e" opacity=".5">
+   <g fill="#a0641e"></g>
+  </g>
+  <g transform="matrix(.096904 0 0 -.096904 83.957 298.87)" fill="#fff">
+   <g fill="#fff">
+    <g fill="#fff">
+     <g fill="#fff">
+      <g clip-path="url(#clipPath26031-8-3)" fill="#fff">
+       <path d="m508.6 714.78v-5.746h-9.928c-0.51 0-0.966-0.293-1.184-0.755-0.211-0.463-0.137-1.001 0.191-1.389l17.53-20.497c0.245-0.286 0.605-0.456 0.986-0.456s0.742 0.17 0.988 0.456l17.516 20.497c0.333 0.388 0.408 0.932 0.19 1.389-0.21 0.462-0.674 0.755-1.184 0.755h-9.929c-5.7619 12.045-3.7849 29.758 2.481 36.97-10.955-6.59-17.657-18.439-17.657-31.224" fill="#fff"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <rect x="131.73" y="232.93" width="4.498" height=".26459" fill="#fff" style="paint-order:normal"/>
+ </g>
+ <circle cx="-305.27" cy="-336.63" r="0" fill="#5e4aa6" stroke-width=".26459"/>
 </svg>

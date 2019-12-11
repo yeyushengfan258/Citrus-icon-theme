@@ -47,10 +47,11 @@
  </g>
  <path d="m8.4937 3.32c-0.32459 8e-4 -0.42374 0.31784-0.58798 0.60999l-0.34223 0.60819-6.1697 5.3e-4a7.9377 8.2267 0 0 0-0.83719 3.6564 7.9377 8.2267 0 0 0 7.9377 8.2267 7.9377 8.2267 0 0 0 7.9377-8.2267 7.9377 8.2267 0 0 0-1.5556-4.875h-6.3816z" fill="url(#linearGradient677346)" stroke-width="1.1312" style="paint-order:stroke markers fill"/>
  <path d="m1.3037 4.85c-0.046099 0.091-0.091599 0.18277-0.13426 0.27538h14.652c-0.0408-0.0926-0.0896-0.18439-0.13374-0.27538z" fill="url(#linearGradient677348)" stroke-width=".14297"/>
- <path d="m8.4909 6.61c-1.6141 0-2.9391 1.283-2.9391 2.8492s1.325 2.8518 2.9391 2.8518 2.9365-1.2857 2.9365-2.8518-1.3224-2.8492-2.9365-2.8492zm0 1.3347c0.87067 0 1.5609 0.66971 1.5609 1.5145 0 0.84481-0.69022 1.5172-1.5609 1.5172s-1.5636-0.67233-1.5636-1.5172c0-0.84481 0.69291-1.5145 1.5636-1.5145z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-rule="evenodd" image-rendering="auto" opacity=".25" shape-rendering="auto" solid-color="#000000" stroke-width="1.017" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
- <path d="m10.545 10.87-0.33419 0.12374s0.37391 1.0212-0.21578 1.8841l0.29472 0.20263c0.70216-1.0276 0.25525-2.2104 0.25525-2.2104z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".25" shape-rendering="auto" solid-color="#000000" stroke-width="1.017" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
- <path d="m10.383 10.79s0.40961 1.1028-0.23631 2.048" fill="none" stroke="#fff" stroke-width=".35648px"/>
- <circle cx="8.4909" cy="9.23" r="2.2034" fill="none" stroke="#fff" stroke-width="1.3473"/>
  <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
  <circle cx="-39.434" cy="6.44" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <g transform="matrix(.74819 0 0 .74819 -81.169 -162.46)" fill="none" stroke="#fff">
+  <path d="m121.7 232s0.40277 1.0844-0.23236 2.0138" stroke-width=".35052px"/>
+  <circle cx="119.84" cy="230.47" r="2.1666" stroke-width="1.3248"/>
+ </g>
+ <circle cx="-301.03" cy="-330.81" r="0" fill="#5e4aa6" stroke-width=".26458"/>
 </svg>
