@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="f" x1="-6.1472" x2="-6.1472" y1="-159.56" y2="-102.47" gradientTransform="matrix(.53033 0 0 .53033 11.653 71.909)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#969692" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient978" x1="5.8254" x2="11.018" y1="10.836" y2="5.9035" gradientTransform="matrix(1.1627 0 0 1.1627 -1.401 -1.3633)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#14a03c" offset="0"/>
+   <stop stop-color="#14dc78" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-305.98" cy="-333.89" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="8.6102" cy="8.6489" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.6102" cy="8.3789" r="7.9375" fill="url(#f)" stroke-width=".14032"/>
+ <circle cx="-15.066" cy=".93027" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <path d="m7.6425 5.5407c-1.2499-0.0014185-2.1633 0.95705-2.7473 2.0735-0.7611 1.4548-1.5641 3.6049-0.014557 3.6049 1.6308 0 2.9858-0.90522 3.9439-1.5893 0.34753 0.63365 0.8534 1.5893 1.5601 1.5893 0.70678 0 1.3511-0.27831 1.6659-0.52609l1.174-1.6351-0.12708-0.14626c-1.4859 0.73624-1.9929 1.2425-2.8278-0.34646l1.054-0.96912 1.5478-1.9159-0.11396-0.14128-2.7849 2.4388c-0.45083-0.93326-1.377-2.4359-2.3312-2.437m-1.0426 1.2055c0.88499 0 1.404 1.3035 1.9248 2.2694-0.76784 0.43663-1.771 0.97516-2.5062 0.82464-0.8715-0.17856-1.0934-1.0902-0.74228-1.775 0.31133-0.64182 0.69329-1.3184 1.3227-1.3184" fill="url(#linearGradient978)" stroke-width="1.1627"/>
+ <circle cx="-280.67" cy="-338.3" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="10.243" cy="-3.4759" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+</svg>
