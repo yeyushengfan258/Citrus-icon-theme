@@ -2,20 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="b-6" x1="16.721" x2="16.721" y1="279.38" y2="297.64" gradientTransform="matrix(.99873 0 0 .99873 -8.0336 -279.72)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#1996ff" offset="0"/>
-   <stop stop-color="#1964ff" offset="1"/>
-  </linearGradient>
   <clipPath id="c-3">
    <path d="m8.4799-0.6195c-2.0357 0.00256-6.2799 0.83527-5.3267 4.3928 0 0 0.021703 0.72452 0.81544 0.72452h8.7311c1.0583 0 1.1048-0.72452 1.1048-0.72452 1.0712-3.9976-3.2897-4.3897-5.3246-4.3928z" fill="#666" stroke-width="1.0318" style="paint-order:stroke markers fill"/>
   </clipPath>
   <filter id="a-6" x="-.021" y="-.028" width="1.042" height="1.056" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="1.12"/>
   </filter>
-  <linearGradient id="linearGradient929" x1="16.721" x2="16.721" y1="279.38" y2="297.94" gradientTransform="matrix(.99872 0 0 .99873 -8.0336 -279.71)" gradientUnits="userSpaceOnUse" xlink:href="#b-6">
-   <stop stop-color="#1996ff" offset="0"/>
-   <stop stop-color="#1964ff" offset="1"/>
-  </linearGradient>
   <clipPath id="clipPath11292">
    <path d="m144.34 1018.2h71.467v78h-71.467z"/>
   </clipPath>
@@ -214,6 +206,11 @@
   <clipPath id="clipPath26287">
    <path d="m493.37 677.93h45.643v68.067h-45.643z"/>
   </clipPath>
+  <linearGradient id="linearGradient1716" x1="8.6104" x2="8.6104" y1="18.013" y2="-.24765" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e3296" offset="0"/>
+   <stop stop-color="#2d5fdc" offset=".44623"/>
+   <stop stop-color="#285ad7" offset="1"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -226,7 +223,7 @@
  </metadata>
  <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
  <circle cx="8.4936" cy="8.75" r="7.9375" opacity=".35" stroke-width="1.2" style="paint-order:stroke markers fill"/>
- <circle cx="8.4936" cy="8.46" r="7.9375" fill="url(#linearGradient929)" stroke-width="1.2" style="paint-order:stroke markers fill"/>
+ <circle cx="8.4936" cy="8.46" r="7.9375" fill="#3264e1" stroke-width="1.2" style="paint-order:stroke markers fill"/>
  <path d="m8.5072 1.31c-2.0357 3e-3 -3.9736 0.87394-5.3269 2.3947 0 0 0.0217 0.79376 0.81546 0.79376h8.7313c1.0583 0 1.1048-0.79376 1.1048-0.79376-1.3528-1.5202-3.2899-2.3913-5.3248-2.3947z" opacity=".5" stroke-width="1.08" style="paint-order:stroke markers fill"/>
  <g transform="translate(.026883)" clip-path="url(#c-3)">
   <g transform="matrix(.067728 -.0023602 -.0023602 -.067728 -28.761 13.955)">
@@ -247,7 +244,7 @@
   </g>
  </g>
  <rect x="3.1826" y="1.2" width="10.107" height="3.2925" fill="none"/>
- <path d="m3.1332 2.62a7.9376 7.9376 0 0 0-2.5772 5.8431 7.9376 7.9376 0 0 0 7.9376 7.9376 7.9376 7.9376 0 0 0 7.9376-7.9376 7.9376 7.9376 0 0 0-2.5436-5.81c-0.26993 0.43202-0.34253 0.82265-0.05581 1.1167 0 0-0.04652 0.72452-1.1048 0.72452h-8.7313c-0.79376 0-0.81546-0.72452-0.81546-0.72452 0.27758-0.28469 0.21104-0.68879-0.04703-1.1498z" fill="url(#b-6)" stroke-width="1.2" style="paint-order:stroke markers fill"/>
+ <path d="m3.1332 2.62a7.9376 7.9376 0 0 0-2.5772 5.8431 7.9376 7.9376 0 0 0 7.9376 7.9376 7.9376 7.9376 0 0 0 7.9376-7.9376 7.9376 7.9376 0 0 0-2.5436-5.81c-0.26993 0.43202-0.34253 0.82265-0.05581 1.1167 0 0-0.04652 0.72452-1.1048 0.72452h-8.7313c-0.79376 0-0.81546-0.72452-0.81546-0.72452 0.27758-0.28469 0.21104-0.68879-0.04703-1.1498z" fill="url(#linearGradient1716)" stroke-width="1.2" style="paint-order:stroke markers fill"/>
  <path d="m13.791 3.93c-0.07858 0.21247-0.31795 0.56947-1.064 0.56947h-8.7313c-0.55034 0-0.72682-0.34502-0.78497-0.55862-0.01001 0.0111-0.02055 0.0214-0.03049 0.0326 0 0 0.0217 0.79066 0.81545 0.79066h8.7313c1.0583 0 1.1049-0.79066 1.1049-0.79066-0.01328-0.0149-0.02743-0.0287-0.04082-0.0434z" fill="#fff" opacity=".25" stroke-width="1.0777" style="paint-order:stroke markers fill"/>
  <g transform="matrix(.35278 0 0 -.35278 93.074 259.33)">
   <g clip-path="url(#clipPath11292)">
