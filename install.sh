@@ -1,13 +1,13 @@
 #!/bin/bash
 
 ROOT_UID=0
-DEST_DIR=
+DEST_DIR=$DESTDIR
 
 # Destination directory
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  DEST_DIR="/usr/share/icons"
+  DEST_DIR+="/usr/share/icons"
 else
-  DEST_DIR="$HOME/.local/share/icons"
+  DEST_DIR+="$HOME/.local/share/icons"
 fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
