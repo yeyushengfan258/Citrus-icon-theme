@@ -1167,7 +1167,7 @@
   <linearGradient id="linearGradient5567" x1="-6.1472" x2="-6.1472" y1="-135.61" y2="-103.96" gradientTransform="matrix(2.0044 0 0 2.0044 43.227 271.78)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#191919" offset="0"/>
    <stop stop-color="#323232" offset=".50352"/>
-   <stop offset="1"/>
+   <stop stop-color="#141414" offset="1"/>
   </linearGradient>
  </defs>
  <mask>
@@ -4189,12 +4189,12 @@
   </g>
   <circle cx="-249.55" cy="-220.12" r="0" stroke-width=".17639"/>
  </g>
- <g transform="translate(1.5182 -1.6261)" fill="#fff">
-  <g transform="matrix(2.5642 0 0 2.5642 -69.129 3.3061)">
+ <g transform="translate(-.98049)" fill="#fff">
+  <g transform="matrix(2.5642 0 0 2.5642 -67.611 1.8148)">
    <rect x="34.238" y="10.319" width="4.233" height=".529" ry=".265" style="paint-order:stroke markers fill"/>
    <path d="m32.919 5.5185a0.264 0.264 0 0 0-0.262 0.13 0.264 0.264 0 0 0 0.097 0.362l2.842 1.64-2.842 1.641a0.264 0.264 0 0 0-0.097 0.362c0.074 0.127 0.235 0.17 0.362 0.097l3.207-1.852a0.26 0.26 0 0 0 0.127-0.225c2e-3 -8e-3 1e-3 -0.015 2e-3 -0.022 0-8e-3 0-0.015-2e-3 -0.023a0.26 0.26 0 0 0-0.127-0.224l-3.207-1.853a0.266 0.266 0 0 0-0.1-0.033z" style="paint-order:stroke markers fill"/>
   </g>
-  <g transform="matrix(2.5642 0 0 2.5642 -69.129 21.985)">
+  <g transform="matrix(2.5642 0 0 2.5642 -48.723 1.8148)">
    <rect x="34.238" y="10.319" width="4.233" height=".529" ry=".265" style="paint-order:stroke markers fill"/>
    <path d="m32.919 5.5185a0.264 0.264 0 0 0-0.262 0.13 0.264 0.264 0 0 0 0.097 0.362l2.842 1.64-2.842 1.641a0.264 0.264 0 0 0-0.097 0.362c0.074 0.127 0.235 0.17 0.362 0.097l3.207-1.852a0.26 0.26 0 0 0 0.127-0.225c2e-3 -8e-3 1e-3 -0.015 2e-3 -0.022 0-8e-3 0-0.015-2e-3 -0.023a0.26 0.26 0 0 0-0.127-0.224l-3.207-1.853a0.266 0.266 0 0 0-0.1-0.033z" style="paint-order:stroke markers fill"/>
   </g>

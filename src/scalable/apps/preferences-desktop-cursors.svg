@@ -15,11 +15,6 @@
   <style type="text/css"/>
   <style type="text/css"/>
   <style type="text/css"/>
-  <linearGradient id="linearGradient5573" x1="-6.1472" x2="-6.1472" y1="-159.56" y2="-102.47" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.862)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#191919" offset="0"/>
-   <stop stop-color="#323232" offset=".50352"/>
-   <stop offset="1"/>
-  </linearGradient>
   <style type="text/css"/>
   <style type="text/css"/>
   <style type="text/css"/>
@@ -1176,8 +1171,16 @@
   <clipPath id="clipPath29400-19-9">
    <path d="m155 83.24h44v53h-44z"/>
   </clipPath>
-  <linearGradient id="linearGradient5567-8" x1="-6.1472" x2="-6.1472" y1="-135.61" y2="-103.96" gradientTransform="matrix(2.0044 0 0 2.0044 43.499 271.61)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5573"/>
-  <linearGradient id="linearGradient29319" x1="13.5" x2="21.12" y1="47.823" y2="47.823" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5573"/>
+  <linearGradient id="linearGradient5567-8" x1="-6.1472" x2="-6.1472" y1="-135.61" y2="-103.96" gradientTransform="matrix(2.0044 0 0 2.0044 43.499 271.61)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#191919" offset="0"/>
+   <stop stop-color="#323232" offset=".50352"/>
+   <stop stop-color="#141414" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient29319" x1="13.5" x2="21.12" y1="47.823" y2="47.823" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.862)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#191919" offset="0"/>
+   <stop stop-color="#323232" offset=".50352"/>
+   <stop offset="1"/>
+  </linearGradient>
  </defs>
  <style type="text/css">.st0{opacity:0.15;fill:#45413C;}
 	.st1{fill:#FFE500;}

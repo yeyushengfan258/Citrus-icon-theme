@@ -2310,13 +2310,12 @@
   <clipPath id="clipPath29400-19-7">
    <path d="m155 83.24h44v53h-44z"/>
   </clipPath>
-  <linearGradient id="linearGradient13469" x1="236.32" x2="369.76" y1="321.6" y2="321.6" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5573"/>
-  <style type="text/css"/>
-  <linearGradient id="linearGradient5573" x1="-6.1472" x2="-6.1472" y1="-159.56" y2="-102.47" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.862)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient13469" x1="236.32" x2="369.76" y1="321.6" y2="321.6" gradientTransform="matrix(.53033 0 0 .53033 11.509 71.862)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#191919" offset="0"/>
    <stop stop-color="#323232" offset=".50352"/>
    <stop offset="1"/>
   </linearGradient>
+  <style type="text/css"/>
   <linearGradient id="linearGradient5513" x2="512" y1="71.92" y2="71.92" gradientUnits="userSpaceOnUse">
    <stop stop-color="#f5faff" offset="0"/>
    <stop stop-color="#d2dcf0" offset="1"/>
@@ -3477,7 +3476,11 @@
   </clipPath>
   <linearGradient id="linearGradient1047" x2="512" y1="283.2" y2="283.2" gradientTransform="matrix(.019966 -.0053498 .0053498 .019966 1.9856 4.7248)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5513"/>
   <linearGradient id="linearGradient5238" x2="512" y1="71.92" y2="71.92" gradientTransform="matrix(.019966 -.0053498 .0053498 .019966 1.9856 4.7248)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5513"/>
-  <linearGradient id="linearGradient5567" x1="-6.1472" x2="-6.1472" y1="-135.61" y2="-103.96" gradientTransform="matrix(.53033 0 0 .53033 9.0292 73.765)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5573"/>
+  <linearGradient id="linearGradient5567" x1="1.7653" x2="-6.1472" y1="-133.49" y2="-103.96" gradientTransform="matrix(.53033 0 0 .53033 9.0292 73.765)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#191919" offset="0"/>
+   <stop stop-color="#323232" offset=".50352"/>
+   <stop stop-color="#141414" offset="1"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>

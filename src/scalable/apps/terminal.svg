@@ -1167,7 +1167,7 @@
   <linearGradient id="linearGradient5567" x1="-6.1472" x2="-6.1472" y1="-135.61" y2="-103.96" gradientTransform="matrix(.53033 0 0 .53033 11.437 71.906)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#191919" offset="0"/>
    <stop stop-color="#323232" offset=".50352"/>
-   <stop offset="1"/>
+   <stop stop-color="#141414" offset="1"/>
   </linearGradient>
  </defs>
  <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
