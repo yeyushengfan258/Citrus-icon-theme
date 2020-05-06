@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.15875313"/>
   </filter>
   <linearGradient id="linearGradient918" x1="-4.3084" x2="16.367" y1="-4.3232" y2="16.353" gradientTransform="translate(0 .0018907)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#8273ff" offset="0"/>
-   <stop stop-color="#8255ff" offset="1"/>
+   <stop stop-color="#8c5aeb" offset="0"/>
+   <stop stop-color="#a078ff" offset=".61297"/>
+   <stop stop-color="#7846d7" offset="1"/>
   </linearGradient>
  </defs>
  <metadata>
@@ -31,7 +32,7 @@
   <rect transform="rotate(30)" x="10.69" y="-4.3899" width=".31674" height=".33204" ry=".16633" opacity=".35" style="paint-order:stroke markers fill"/>
   <rect transform="rotate(-30)" x="2.5923" y="4.0352" width=".63349" height=".33204" ry=".16633" opacity=".35" style="paint-order:stroke markers fill"/>
  </g>
- <g transform="translate(-.00012655)" fill="#dcc8ff" stroke-width=".082447">
+ <g transform="translate(-.00012655)" fill="#fafafa" stroke-width=".082447">
   <path d="m5.5922 13.732c0.31452 0.18159 0.33173 0.25558 0.13735 0.59225l-0.15566 0.26962c-0.19438 0.33668-0.26706 0.35876-0.58158 0.17717l-0.32011-0.18482c-0.31452-0.18159-0.33174-0.25558-0.13736-0.59226l0.15566-0.26962c0.19438-0.33668 0.26706-0.35876 0.58159-0.17717z" enable-background="new"/>
   <path d="m7.712 14.305c0.3508 0.094 0.38658 0.16101 0.28596 0.53652l-0.080578 0.30072c-0.10062 0.37551-0.16511 0.41566-0.51591 0.32166l-0.35704-0.095667c-0.3508-0.094-0.38659-0.16101-0.28597-0.53653l0.080578-0.30072c0.10062-0.37551 0.16511-0.41566 0.51592-0.32166z" enable-background="new"/>
   <path d="m9.6484 14.209c0.3508-0.094 0.41529-0.05385 0.51591 0.32166l0.08058 0.30072c0.10062 0.37551 0.06484 0.44253-0.28596 0.53652l-0.35704 0.09567c-0.3508 0.094-0.4153 0.05385-0.51592-0.32166l-0.08058-0.30072c-0.10062-0.37551-0.064844-0.44253 0.28597-0.53653z" enable-background="new"/>
