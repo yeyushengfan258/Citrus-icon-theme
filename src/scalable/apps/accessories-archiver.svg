@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.536 352.06)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#14dc78" offset="0"/>
+   <stop stop-color="#14a03c" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
+ </defs>
+ <g transform="matrix(3.7796 0 0 3.7796 -.10205 -1059)">
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+  <circle cx="8.4935" cy="288.53" r="7.9375" fill="url(#a-3)" stroke-width=".14032"/>
+  <circle cx="-39.434" cy="286.51" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+  <g transform="matrix(1.1389,0,0,1.1389,-31.597,280.9)" fill="#19502b" opacity=".3">
+   <path d="m34.671 7.0315v1.7198c0 0.07329 0.059 0.13229 0.13229 0.13229h0.79374c0.07329 0 0.13229-0.059 0.13229-0.13229v-1.7198zm0.26458 1.0583h0.52916v0.52916h-0.52916z" color="#000000"/>
+   <path d="m35.2-0.11215v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916z" color="#000000"/>
+  </g>
+  <g transform="matrix(1.1389,0,0,1.1389,-31.597,280.76)" fill="#19502b">
+   <path d="m34.671 7.0315v1.7198c0 0.07329 0.059 0.13229 0.13229 0.13229h0.79374c0.07329 0 0.13229-0.059 0.13229-0.13229v-1.7198zm0.26458 1.0583h0.52916v0.52916h-0.52916z" color="#000000"/>
+   <path d="m35.2-0.11215v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916zm0 0.52916h-0.52916v0.52916h0.52916zm0 0.52916v0.52916h0.52916v-0.52916z" color="#000000"/>
+  </g>
+ </g>
+</svg>
