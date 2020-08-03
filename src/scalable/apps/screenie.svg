@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a-3" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(2.0044,0,0,2.0044,123.77,261.85)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffbe14" offset="0"/>
+   <stop stop-color="#ff8214" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -263.13)">
+  <g transform="translate(25.002 3.918)">
+   <g transform="matrix(.26458 0 0 .26458 -46.24 261.8)" stroke-width=".53035">
+    <circle cx="112.27" cy="22.748" r="30.001" opacity=".2"/>
+    <circle cx="112.27" cy="21.727" r="30.001" fill="url(#a-3)"/>
+   </g>
+  </g>
+  <circle cx="8.4667" cy="271.47" r="5.3317" fill="#fdfefd" stroke-width=".094253"/>
+  <circle cx="8.4667" cy="271.47" r="3.7281" fill="#191923" stroke-width=".065903"/>
+  <circle cx="8.4667" cy="271.47" r="2.3815" fill="#3b444c" stroke-width=".0421"/>
+  <circle cx="8.4667" cy="271.47" r="1.1767" fill="#0d0d0c" stroke-width=".020801"/>
+  <g transform="matrix(.53034 0 0 .53034 178.55 313.1)" fill="#fefefe">
+   <circle cx="-320.71" cy="-79.13" r=".61512" stroke-width=".010874"/>
+   <circle cx="-320.71" cy="-77.543" r=".29774" stroke-width=".0052634"/>
+  </g>
+  <g fill="#5e4aa6">
+   <circle cx="-330.38" cy="-65.384" r="0" stroke-width=".26458"/>
+   <circle cx="-334.14" cy="-71.884" r="0" stroke-width=".26458"/>
+   <circle cx="-43.226" cy="262.94" r="0" fill-rule="evenodd" stroke-width=".26458"/>
+  </g>
+ </g>
+ <style type="text/css">.st0{fill:#F08705;}
+	.st1{fill:#DF6C0C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#333333;}</style>
+</svg>
