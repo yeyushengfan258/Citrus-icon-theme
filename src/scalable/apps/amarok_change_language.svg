@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="amarok_change_language.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="3.984375"
+     inkscape:cx="33.865752"
+     inkscape:cy="6.6311377"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="408.57803"
+     x2="408.61542"
+     y1="545.20557"
+     y2="502.341">
+    <stop
+       offset="0"
+       stop-color="#216ea2"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#2d95d9"
+       id="stop4" />
+  </linearGradient>
+  <circle
+     cx="-1260.8074"
+     cy="-1317.1454"
+     r="0"
+     fill="#5e4aa6"
+     stroke-width="1.00001"
+     id="circle850" />
+  <g
+     id="g946"
+     transform="translate(12.113754,75.513968)">
+    <circle
+       cx="19.886246"
+       cy="-43.003723"
+       r="30.000591"
+       opacity="0.2"
+       stroke-width="0.530354"
+       id="circle854" />
+    <circle
+       cx="19.886246"
+       cy="-44.024212"
+       r="30.000591"
+       fill="#fafafa"
+       stroke-width="0.530354"
+       id="circle856" />
+    <g
+       transform="matrix(3.779602,0,0,3.779602,-14.215817,-76.999652)"
+       id="g874">
+      <g
+         stroke-width="0.56724"
+         id="g864">
+        <rect
+           x="2.5460999"
+           y="3.1749001"
+           width="7.4081998"
+           height="6.8790002"
+           ry="0.86684"
+           color="#000000"
+           opacity="0.15"
+           overflow="visible"
+           style="isolation:auto;mix-blend-mode:normal"
+           id="rect858" />
+        <rect
+           x="2.6458001"
+           y="2.9103999"
+           width="7.4081998"
+           height="6.8790002"
+           ry="0.86684"
+           color="#000000"
+           fill="#e6e6e6"
+           overflow="visible"
+           style="isolation:auto;mix-blend-mode:normal"
+           id="rect860" />
+        <rect
+           x="7.8073001"
+           y="7.9373002"
+           width="7.4081998"
+           height="6.8790002"
+           ry="0.86684"
+           color="#000000"
+           opacity="0.15"
+           overflow="visible"
+           style="isolation:auto;mix-blend-mode:normal"
+           id="rect862" />
+      </g>
+      <g
+         fill="#666666"
+         aria-label="文"
+         id="g868">
+        <path
+           d="M 4.3432,4.9846 H 6.2308 Q 6.06587,4.70971 5.88261,4.45315 L 6.19415,4.23324 Q 6.46904,4.5631 6.67062,4.9846 h 1.7776 V 5.33279 H 7.73352 Q 7.58691,6.02917 7.25705,6.54229 6.94551,7.05541 6.7256,7.18369 7.38533,7.67849 8.4665,8.06333 L 8.24659,8.4665 Q 7.22039,8.11831 6.39569,7.4586 5.62601,8.0267 4.48979,8.44819 L 4.23323,8.1 Q 5.33273,7.71516 6.08413,7.18371 5.33277,6.45068 5.02123,5.33281 H 4.34318 Z m 1.0812,0.34819 q 0.31154,0.98959 0.98959,1.5943 0.67805,-0.58642 0.91629,-1.5943 z"
+           fill="#666666"
+           stroke-width="0.11728"
+           id="path866" />
+      </g>
+      <rect
+         x="7.9373002"
+         y="7.6728001"
+         width="7.4081998"
+         height="6.8790002"
+         ry="0.86684"
+         color="#000000"
+         fill="#3279f1"
+         overflow="visible"
+         stroke-width="0.56724"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="rect870" />
+      <path
+         d="m 12.658,13.114 -0.28901,-0.94873 h -1.4538 L 10.62618,13.114 h -0.9109 l 1.4072,-4.0031 h 1.0335 l 1.4123,4.0031 h -0.9109 z M 12.16714,11.4562 Q 11.76616,10.1664 11.71441,9.9972 11.66538,9.82803 11.6436,9.72998 q -0.09018,0.34892 -0.51537,1.7262 z"
+         fill="#ffffff"
+         font-size="64px"
+         font-weight="700"
+         letter-spacing="0"
+         stroke-width="0.30262"
+         word-spacing="0"
+         id="path872" />
+    </g>
+    <g
+       stroke-width="0.54472"
+       id="g884"
+       transform="matrix(3.779602,0,0,3.779602,-12.215803,-75.999645)">
+      <path
+         d="m 4.4861,9.5315 v 1.8454 l 1.0701,1.0698 H 7.3604 V 11.3769 H 5.5562 V 9.5315 Z"
+         color="#000000"
+         fill="#337cf1"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path876" />
+      <path
+         d="M 5.0129,8.2281 6.4231,9.6383 H 3.6026 Z"
+         color="#000000"
+         fill="#337cf1"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path878" />
+      <path
+         d="M 8.4162,11.959 7.3334,13.0418 V 10.8759 Z"
+         color="#000000"
+         fill="#a1c4ff"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path880" />
+      <path
+         d="m 4.4861,11.377 1.0701,1.0698 H 7.3604 V 11.377 H 5.5562 Z"
+         color="#000000"
+         fill="#a1c4ff"
+         overflow="visible"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path882" />
+    </g>
+  </g>
+</svg>
